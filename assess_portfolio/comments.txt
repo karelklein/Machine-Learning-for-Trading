@@ -1,0 +1,17 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 3
+
+--- Details ---
+Test #0: failed 
+Test case description: Wiki example 1
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+Test #1: failed 
+Test case description: Wiki example 2
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+Test #2: failed 
+Test case description: Wiki example 3: Six month range
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+</pre>

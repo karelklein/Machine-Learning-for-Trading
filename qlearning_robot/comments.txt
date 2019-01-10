@@ -1,0 +1,46 @@
+<pre>--- Summary ---
+Tests passed: 1 out of 11
+
+--- Details ---
+Test #0: failed 
+Test case description: World 1
+TimeoutException: Exceeded time limit!
+
+Test #1: failed 
+Test case description: World 2
+TimeoutException: Exceeded time limit!
+
+Test #2: failed 
+Test case description: World 4
+TimeoutException: Exceeded time limit!
+
+Test #3: failed 
+Test case description: World 6
+TimeoutException: Exceeded time limit!
+
+Test #4: failed 
+Test case description: World 7
+TimeoutException: Exceeded time limit!
+
+Test #5: failed 
+Test case description: World 8
+TimeoutException: Exceeded time limit!
+
+Test #6: failed 
+Test case description: World 9
+TimeoutException: Exceeded time limit!
+
+Test #7: failed 
+Test case description: World 10
+TimeoutException: Exceeded time limit!
+
+Test #8: failed 
+Test case description: World 1, dyna=200
+TimeoutException: Exceeded time limit!
+
+Test #9: failed 
+Test case description: World 2, dyna=200
+TimeoutException: Exceeded time limit!
+
+Test #10: passed 
+</pre>

@@ -1,0 +1,61 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 8
+
+--- Details ---
+Test #0: failed 
+Test case description: Wiki example 1
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #1: failed 
+Test case description: Wiki example 2
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #2: failed 
+Test case description: Wiki example 3
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #3: failed 
+Test case description: Wiki example 4
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #4: failed 
+Test case description: MSFT vs HPQ
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #5: failed 
+Test case description: MSFT vs AAPL
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #6: failed 
+Test case description: Wiki example 1 in 2011
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+Test #7: failed 
+Test case description: Three symbols #1: AAPL, GLD, GOOG
+Traceback:
+  File "optimization.py", line 4, in <module>
+    import matplotlib.pyplot as plt
+RuntimeError: Python is not installed as a framework. The Mac OS X backend will not be able to function correctly if Python is not installed as a framework. See the Python documentation for more information on installing Python as a framework on Mac OS X. Please either reinstall Python as a framework, or try one of the other backends. If you are using (Ana)Conda please install python.app and replace the use of 'python' with 'pythonw'. See 'Working with Matplotlib on OSX' in the Matplotlib FAQ for more information.
+
+</pre>
