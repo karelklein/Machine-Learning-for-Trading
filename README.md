@@ -3,9 +3,9 @@
 Implementation of various techniques in machine learning and application in the context of stock trading.
 
 ## Contents
-- assess_learners
-	- Computes the daily portfolio value over given date range, and a set of statistics describing performance of the overall portfolio
 - assess_portfolio
+	- Computes the daily portfolio value over given date range, and a set of statistics describing performance of the overall portfolio
+- assess_learners
 	- Implements and evalutes performance of three learning algorithms: Decision Tree, Random Tree, and Bootstrap Aggregation
 - defeat_learners
 	- A set of simple data-generation functions used to show bias in two ML models.
