@@ -18,4 +18,7 @@ Implementation of various techniques in machine learning and application in the 
 - qlearning_robot
 	- Implements the Q-Learning and Dyna-Q solutions to the reinforcement learning problem, and applies them to a navigation problem 
 - strategy_learner
-	- Design of a learning trading agent capable of using technical indicators and a Random Forest learner to learn a profitable trading strategy  
+	- Design of a learning trading agent capable of using technical indicators and a Random Forest learner to learn a profitable trading strategy 
+
+## Dependencies
+- ml4-libraries.txt
