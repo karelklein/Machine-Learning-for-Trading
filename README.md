@@ -21,4 +21,4 @@ Implementation of various techniques in machine learning and application in the 
 	- Design of a learning trading agent capable of using technical indicators and a Random Forest learner to learn a profitable trading strategy 
 
 ## Dependencies
-- ml4-libraries.txt
+- ml4t-libraries.txt
